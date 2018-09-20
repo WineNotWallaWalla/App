@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <div className={styles.footer}>
-        Footer!
+        <p>Made by SS</p>
       </div>
     );
   }

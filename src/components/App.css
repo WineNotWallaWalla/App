@@ -1,5 +1,7 @@
 :local(.app) {
+  background: center / cover no-repeat url("/images/wine.png");
   min-height: 100vh;
   display: grid; 
   grid-template-rows: 100px auto 50px;
+  font-family: Arial, Helvetica, sans-serif
 }
